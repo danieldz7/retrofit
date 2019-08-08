@@ -1,5 +1,7 @@
 {
-  "barcode": [
-    { "number": 1}
-  ]
+  "barcode":
+    { 
+     "id":1, 
+     "number": 1
+    }
 }
