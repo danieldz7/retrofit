@@ -2,9 +2,9 @@
   "barcode":
     { 
      "id":1, 
-     "campo1": 13356123,
-     "campo2": 13356123,
-     "campo3": 13356123,
-     "barcode": 13356123
+     "campo1": 111,
+     "campo2": 222,
+     "campo3": 333,
+     "barcode": 444
     }
 }
