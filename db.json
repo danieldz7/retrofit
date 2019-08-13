@@ -1,16 +1,19 @@
-[
-  {
-     "id" : "1", 
-     "campo1" : "111",
-     "campo2" : "222",
-     "campo3" : "333",
-     "barcode" : "ABCD123457"
-   },
-  {
-     "id" : "2", 
-     "campo1" : "321",
-     "campo2" : "345",
-     "campo3" : "5678",
-     "barcode" : "123457YTJH"
-   }  
-]
+{
+  "arquivos":
+  [
+      {
+         "id" : "1", 
+         "campo1" : "111",
+         "campo2" : "222",
+         "campo3" : "333",
+         "barcode" : "ABCD123457"
+       },
+      {
+         "id" : "2", 
+         "campo1" : "321",
+         "campo2" : "345",
+         "campo3" : "5678",
+         "barcode" : "123457YTJH"
+       }  
+    ]
+  }
